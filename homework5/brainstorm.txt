@@ -1,0 +1,16 @@
+1. Quantum Physics
+	Quantum Physics news by phys.org
+	Gives the most recent news of Quantum Physics, specifically with industry -- today: "A world-first quantum battery charges faster when it gets bigger-- but it's tiny and only lasts nanoseconds"
+2. Black Holes
+	Black Holes by SkyandTelescope.org
+	Gives the most recent news of Black Holes: "February 12, 2026, Astronomers might have spotted a star in the Andromeda Galaxy collapsing directly into a black hole"
+3. Complex Analysis
+4. Abstract Linear Algebra
+5. Dark Matter/Energy
+	Dark Energy article by NASA
+	Starts with a brief history of the universe, then describes what dark energy is and what NASA plans to do to learn more about it.
+
+Black Holes:
+	1. Simulations <--- Ambitious
+	2. A tracker for updates on news sites for black holes
+	3. Fun Fact website <--- Probably
